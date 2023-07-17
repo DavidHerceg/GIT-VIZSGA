@@ -10,4 +10,4 @@
 - git branch -m console
 - git push -u origin console
 - git branch -m main
-- git push -u origin main
+- git push origin main
